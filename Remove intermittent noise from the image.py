@@ -4,9 +4,9 @@
 # In[ ]:
 
 
-# subject: HW5 Image Processing
+# subject: Image Processing
 # name: maryam farshchian
-# ID: 9715034
+# 
 
 
 # loading nessery packages
